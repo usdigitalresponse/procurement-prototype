@@ -1,4 +1,4 @@
-# Columbia Bid Opportunities — prototype
+# Procurement Website Prototype
 
 A throwaway prototype of a state government bid-opportunity website, built to
 demonstrate information architecture and plain-language writing.
